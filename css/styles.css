@@ -23,9 +23,10 @@ p {
   padding: .2em;
 }
 .announce {
+  font-size: .7em;
   font-family: "Outfit", serif;
   color: hsl(218, 44%, 22%);
-  width: 90%;
+  width: 80%;
   margin: auto;
 }
 .text {
