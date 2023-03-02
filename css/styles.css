@@ -1,9 +1,9 @@
 body {
   background-color: hsl(212, 45%, 89%);
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
 }
 h2 {
-  font-family: 'Outfit', serif;
+  font-family: "Outfit", serif;
   color: hsl(218, 44%, 22%);
 }
 p {
@@ -23,6 +23,14 @@ p {
   text-align: center;
   margin: 10em auto 10em auto;
   padding-bottom: 30px;
+}
+.announce {
+  width: 90%;
+  margin: auto;
+}
+.text {
+  width: 80%;
+  margin: auto;
 }
 
 @media screen and (max-width: 50em) {
