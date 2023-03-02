@@ -24,3 +24,9 @@ p {
   margin: 200px auto 100px auto;
   padding-bottom: 30px;
 }
+
+@media screen and (max-width: 50em) {
+  .main-container {
+    margin: auto;
+  }
+}
