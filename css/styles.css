@@ -27,6 +27,6 @@ p {
 
 @media screen and (max-width: 50em) {
   .main-container {
-    margin: auto;
+    margin: 5em auto 0 auto;
   }
 }
